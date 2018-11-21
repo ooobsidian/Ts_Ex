@@ -1,0 +1,16 @@
+{
+  "name": "ts_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^10.12.9",
+    "save": "^2.3.2"
+  }
+}
