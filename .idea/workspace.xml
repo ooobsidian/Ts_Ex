@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38fdb167-9f6a-4e86-8f83-38439cf66b23" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo04.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo05.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo06.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo07.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo08.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo09.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo10.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo11.ts" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo03.js" afterPath="$PROJECT_DIR$/demo03.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo03.ts" afterPath="$PROJECT_DIR$/demo03.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -120,8 +114,46 @@
         <entry file="file://$PROJECT_DIR$/demo07.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="405">
-              <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+              <caret line="15" column="8" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo10.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo10.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="438">
+              <caret line="18" column="33" lean-forward="false" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo11.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo11.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo11.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo11.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="28" column="22" lean-forward="false" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="22" />
+              <folding>
+                <marker date="1542883059459" expanded="true" signature="47:302" ph="{...}" />
+                <marker date="1542883059459" expanded="true" signature="78:269" ph="{...}" />
+                <marker date="1542883059459" expanded="true" signature="191:240" ph="{...}" />
+                <marker date="1542883059459" expanded="true" signature="361:614" ph="{...}" />
+                <marker date="1542883059459" expanded="true" signature="392:583" ph="{...}" />
+                <marker date="1542883059459" expanded="true" signature="419:461" ph="{...}" />
+                <marker date="1542883059459" expanded="true" signature="505:554" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -136,11 +168,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="demo09.ts" pinned="false" current-in-tab="true">
+      <file leaf-file-name="demo09.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo09.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+            <state relative-caret-position="707">
+              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -186,16 +218,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="demo.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="helloworld.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/helloworld.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -234,10 +256,11 @@
         <option value="$PROJECT_DIR$/demo06.js" />
         <option value="$PROJECT_DIR$/demo06.ts" />
         <option value="$PROJECT_DIR$/demp08.ts" />
-        <option value="$PROJECT_DIR$/demo10.ts" />
         <option value="$PROJECT_DIR$/demo.09.ts" />
         <option value="$PROJECT_DIR$/demo07.ts" />
         <option value="$PROJECT_DIR$/demo09.ts" />
+        <option value="$PROJECT_DIR$/demo10.ts" />
+        <option value="$PROJECT_DIR$/demo11.ts" />
       </list>
     </option>
   </component>
@@ -336,6 +359,16 @@
             <path>
               <item name="ts_test" type="b2602c69:ProjectViewProjectNode" />
               <item name="ts_test" type="462c0819:PsiDirectoryNode" />
+              <item name="demo10.ts" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="ts_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ts_test" type="462c0819:PsiDirectoryNode" />
+              <item name="demo11.ts" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="ts_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ts_test" type="462c0819:PsiDirectoryNode" />
               <item name="helloworld.ts" type="620a8d5e:NestingTreeNode" />
             </path>
           </expand>
@@ -362,26 +395,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.demo09.js">
-    <configuration name="demo05.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="demo05.js" working-dir="$PROJECT_DIR$" />
-    <configuration name="demo06.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="demo06.js" working-dir="$PROJECT_DIR$" />
+  <component name="RunManager" selected="Node.js.demo11.js">
     <configuration name="demo07.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="demo07.js" working-dir="$PROJECT_DIR$" />
     <configuration name="demo09.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="demo09.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="demo10.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="demo10.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="demo11.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="demo11.js" working-dir="$PROJECT_DIR$" />
     <configuration name="demp08.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/demo08.js" working-dir="$PROJECT_DIR$" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.demo05.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.demo06.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.demo07.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.demp08.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.demo09.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.demo07.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.demp08.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.demo09.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.demo10.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.demo11.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.demo09.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.demp08.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.demo07.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.demo06.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.demo05.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.demo11.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.demo10.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.demo09.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.demp08.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.demo07.js" />
       </list>
     </recent_temporary>
   </component>
@@ -399,12 +432,12 @@
       <option name="presentableId" value="Default" />
       <updated>1542809503461</updated>
       <workItem from="1542809505584" duration="5707000" />
-      <workItem from="1542868749263" duration="4847000" />
+      <workItem from="1542868749263" duration="6787000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10554000" />
+    <option name="totallyTimeSpent" value="12494000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="79" y="0" width="1841" height="1080" extended-state="6" />
@@ -443,6 +476,8 @@
         <option value="$PROJECT_DIR$/demo05.js" />
         <option value="$PROJECT_DIR$/demo06.js" />
         <option value="$PROJECT_DIR$/demo07.js" />
+        <option value="$PROJECT_DIR$/demo10.js" />
+        <option value="$PROJECT_DIR$/demo11.js" />
       </list>
     </option>
   </component>
@@ -715,18 +750,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo07.ts">
+    <entry file="file://$PROJECT_DIR$/demo09.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        <state relative-caret-position="707">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo09.ts">
+    <entry file="file://$PROJECT_DIR$/demo07.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="8" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo10.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="18" column="33" lean-forward="false" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo11.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="28" column="22" lean-forward="false" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="22" />
+          <folding>
+            <marker date="1542883059459" expanded="true" signature="47:302" ph="{...}" />
+            <marker date="1542883059459" expanded="true" signature="78:269" ph="{...}" />
+            <marker date="1542883059459" expanded="true" signature="191:240" ph="{...}" />
+            <marker date="1542883059459" expanded="true" signature="361:614" ph="{...}" />
+            <marker date="1542883059459" expanded="true" signature="392:583" ph="{...}" />
+            <marker date="1542883059459" expanded="true" signature="419:461" ph="{...}" />
+            <marker date="1542883059459" expanded="true" signature="505:554" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo11.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
-          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
