@@ -4,4 +4,3 @@ function zhengxing():void{
     console.log(yangzi)
 }
 zhengxing()
-console.log(yangzi)

@@ -5,4 +5,3 @@ function zhengxing() {
     console.log(yangzi);
 }
 zhengxing();
-console.log(yangzi);
